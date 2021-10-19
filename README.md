@@ -1,4 +1,4 @@
 # DevopsTest
 Testing AzureDevops
 
-Added some text from notepad
+Removing extra files, fixing
